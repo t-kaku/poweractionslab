@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<forms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <systemform>
+    <formid>{0fb514dd-9909-4398-8f8a-811d4bfd4e56}</formid>
+    <IntroducedVersion>1.0</IntroducedVersion>
+    <FormPresentation>1</FormPresentation>
+    <FormActivationState>1</FormActivationState>
+    <form>
+      <tabs>
+        <tab verticallayout="true" id="{b304ce36-d0a9-4d4e-b617-ff84d671e5f9}" IsUserDefined="1">
+          <labels>
+            <label description="全般" languagecode="1041" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showlabel="false" showbar="false" IsUserDefined="0" id="{0b6fd060-80db-487e-a635-8839b8f7ad1f}">
+                  <labels>
+                    <label description="全般" languagecode="1041" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{ee3dd3a7-09bb-4240-9e81-a7ccaf0f63a1}">
+                        <labels>
+                          <label description="Name" languagecode="1041" />
+                        </labels>
+                        <control id="almlab_name" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="almlab_name" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{00cb3c32-8670-40ce-b3e5-d26d2a6ab3ea}">
+                        <labels>
+                          <label description="所有者" languagecode="1041" />
+                        </labels>
+                        <control id="ownerid" classid="{270BD3DB-D9AF-4782-9025-509E298DEC0A}" datafieldname="ownerid" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+      </tabs>
+    </form>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>1</CanBeDeleted>
+    <LocalizedNames>
+      <LocalizedName description="情報" languagecode="1041" />
+    </LocalizedNames>
+    <Descriptions>
+      <Description description="このエンティティ用のフォームです。" languagecode="1041" />
+    </Descriptions>
+  </systemform>
+</forms>
