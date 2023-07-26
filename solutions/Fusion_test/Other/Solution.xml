@@ -11,12 +11,12 @@
     <Publisher>
       <UniqueName>almlab</UniqueName>
       <LocalizedNames>
-        <LocalizedName description="ALMLab" languagecode="1041" />
+        <LocalizedName description="Fusion_test" languagecode="1041" />
       </LocalizedNames>
       <Descriptions />
       <EMailAddress xsi:nil="true"></EMailAddress>
       <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
-      <CustomizationPrefix>almlab</CustomizationPrefix>
+      <CustomizationPrefix>Fusion_test</CustomizationPrefix>
       <CustomizationOptionValuePrefix>81435</CustomizationOptionValuePrefix>
       <Addresses>
         <Address>
